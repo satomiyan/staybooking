@@ -1,3 +1,12 @@
+## Live Demo
+
+The application is deployed on AWS and you can access the live version using the following link:
+
+https://staging.d2zrtheqx4ygyn.amplifyapp.com/
+
+Feel free to explore the features and functionality of the project. If you encounter any issues or have feedback, please let us know!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
